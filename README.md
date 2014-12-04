@@ -3,7 +3,7 @@ AngularJS app starting template
 
 To use, clone this directory with
     
-    git clone https://github.com/szimmer/angularseed.git
+    git clone https://github.com/szimmer1/angularseed.git
     
 then navigate to the angularseed directory and run
 
