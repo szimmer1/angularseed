@@ -1,7 +1,7 @@
 {
   "name":"app-name",
   "version":"0.0.1",
-  "private":"true",
+  "private":"false",
   "dependencies": {
     "http-server":"^0.6.0"
   }
