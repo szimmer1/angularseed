@@ -2,10 +2,14 @@ AngularJS app starting template
 =========
 
 To use, clone this directory with
+    
     git clone https://github.com/szimmer/angularseed.git
+    
 then navigate to the angularseed directory and run
+
     npm install
     http-server
+    
 pull up localhost:8080 on your browser to see the served homepage
 
 <table>
