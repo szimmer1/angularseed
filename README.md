@@ -12,6 +12,8 @@ then navigate to the angularseed directory and run
     
 pull up localhost:8080 on your browser to see the served homepage
 
+Components
+----------
 <table>
 <tr>
 <td>index.html</td>        <td>  homepage</td>
